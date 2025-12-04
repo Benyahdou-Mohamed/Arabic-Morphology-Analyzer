@@ -1,4 +1,4 @@
-# Arabic Morphology Analyzer 🇸🇦
+# Arabic Morphology Analyzer
 
 A modern GUI application for analyzing Arabic text morphology with support for user corrections.
 
@@ -109,5 +109,11 @@ Edit `config.py` to customize:
 Educational/Academic Project
 
 ## Author 👨‍💻
+- HOCEINI Mohammed
+- DEGHEM Boubakar Seddik
+- Horri Mourad
+- Khene Yacine
+- Dahou Mohammed Amine
+- Benyahdou Mohammed
 
 Mini Project FTP
